@@ -2,7 +2,7 @@
 
 | Student Name | UID | UST email | Github username |
 | CHEN Ming    | 21011741 |mchenci@connect.ust.hk| mchenci |
-| HE Shu       | 21035371 |shebh@connect.ust.hk  |         |
+| HE Shu       | 21035371 |shebh@connect.ust.hk  | shebhc  |
 
 # Topic
 Social media opinion analysis of Sauvignon Blanc and Lotus House
